@@ -1,18 +1,18 @@
-# NFL Best Offense Calculator 🚧 Work in Progress
+# NFL Best Offense Calculator - Work in Progress
 
 A Python tool that identifies the best NFL offense for any given season by adjusting team performance based on the strength of defenses they faced.
 
-## ⚠️ Project Status
+## Project Status
 
 This project is actively under development. Current functionality is working, but additional features are planned.
 
-### ✅ Currently Working
+### Currently Working
 - Calculate opponent defensive strength (rush & pass yards allowed)
 - Aggregate team offensive statistics
 - Adjust offensive performance based on opponent quality
 - Generate rankings and CSV reports
 
-### 🔜 Planned Features
+### Planned Features
 - Turnover analysis (fumbles, interceptions)
 - Sack yards adjustment
 - Red zone efficiency metrics
