@@ -43,4 +43,4 @@ Unlike traditional rankings that only look at raw yards or points, this tool adj
 ## Installation
 
 1. Create a conda environment:
-```bash conda create -n  NFL_BEST python=3.11
+```bash conda create -n  NFL_BEST python=3.11```
